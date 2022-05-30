@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    align-items: center;
+}
+.popular{
+    margin-right: 15px;
+    font-size: 26px;
+}
+.selector-btn{
+    padding: 10px 14px;
+    margin-top: 6px;
+    background-color: rgb(3,37,65);
+    color: rgba(121, 227, 201, 0.86);
+    border-radius: 5%;
+    margin-right: 2px;
+    transition: 0.5s;
+    font-size: 15px;
+}
+.selector-btn:hover{
+    background-color: rgb(10, 63, 107);
+    color: rgba(121, 227, 201, 0.86);
+}

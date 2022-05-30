@@ -1,0 +1,41 @@
+.movie-header-info{
+    color: white;
+}
+.flex{
+    display: flex;
+    align-items: center;
+
+}
+
+.rating{
+    border: 2px solid #5ec25e;
+    border-radius: 50%;
+    padding: 10px;
+    margin-right: 5px;
+    background-color: rgba(31, 30, 30, 0.86);
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+}
+.film-name{
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 6px;
+    border-bottom: 1px solid white;
+}
+img{
+    border-radius: 5px
+}
+p{
+    line-height: 22px;
+    margin-bottom: 8px;
+
+}
+.film-desc{
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+.release-date{
+    margin-right: 6px;
+}
